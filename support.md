@@ -3,12 +3,12 @@ title: Support
 permalink: /support/
 ---
 
-# Cross Stitch — Support
+# Snapstitch — Support
 
 ## Contact
 
 To ask a question, report a problem or suggest an idea,
-[open an issue](https://github.com/MichaelG922/cross-stitch-support/issues/new/choose).
+[open an issue](https://github.com/MichaelG922/snapstitch/issues/new/choose).
 Each issue gets a reply there. You need a free GitHub account to post.
 
 When you report a problem, please include:
@@ -34,12 +34,12 @@ Delete a pattern project from its menu. To remove everything, delete the app.
 
 **Why can't the app see all my photos?**
 It only sees the photo you pick. If you can't pick a photo, check
-Settings › Privacy & Security › Photos › Cross Stitch.
+Settings › Privacy & Security › Photos › Snapstitch.
 
 **Are the thread colours exact?**
 Each colour is the closest DMC floss to the photo. Screens show colours
 differently, so check the thread numbers rather than how they look on screen.
 
 **Is this an official DMC app?**
-No. Cross Stitch is not affiliated with or endorsed by DMC. It uses DMC
+No. Snapstitch is not affiliated with or endorsed by DMC. It uses DMC
 numbers so you know which floss to buy.

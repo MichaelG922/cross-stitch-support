@@ -1,10 +1,10 @@
 ---
-title: Cross Stitch
+title: Snapstitch
 ---
 
-# Cross Stitch
+# Snapstitch
 
-Cross Stitch for iPhone and iPad turns your photos into cross stitch patterns
+Snapstitch for iPhone and iPad turns your photos into cross stitch patterns
 with DMC thread colours. You can track your stitching progress and keep a
 thread inventory.
 

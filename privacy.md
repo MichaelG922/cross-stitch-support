@@ -3,14 +3,14 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Cross Stitch — Privacy Policy
+# Snapstitch — Privacy Policy
 
-_Last updated 21 November 2026_
+_Last updated 24 November 2026_
 
 
 ## The short version
 
-Cross Stitch collects no data. It has no accounts, no analytics, no
+Snapstitch collects no data. It has no accounts, no analytics, no
 advertising and no tracking, and it never connects to the internet.
 Everything you make stays on your device.
 
@@ -49,4 +49,4 @@ the App Store page, with a new date.
 ## Thread colours
 
 Thread colours are referenced by DMC number so you know which floss to buy.
-Cross Stitch is not affiliated with or endorsed by DMC.
+Snapstitch is not affiliated with or endorsed by DMC.
