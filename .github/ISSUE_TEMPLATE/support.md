@@ -1,6 +1,6 @@
 ---
 name: Question or problem
-about: Ask for help with Snapstitch or report something that isn't working
+about: Ask for help with Pic N Stitch or report something that isn't working
 ---
 
 **What happened?**
